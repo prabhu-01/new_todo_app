@@ -5,12 +5,12 @@
 </br>
 
 In the project directory, you can run:</br>
-**npm i**</br>
+>**npm i**</br>
 *Installs the necessary dependancies.*
 </br>
 </br>
 </br>
-**npm start**</br>
+>**npm start**</br>
 *Runs the app in the development mode.*</br>
 *Open http://localhost:3000 to view it in your browser.*
 </br>
